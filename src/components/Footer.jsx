@@ -4,7 +4,7 @@ const Footer = () => {
     return (
       <footer className="bg-yellow-100 text-yellow-900 py-8 border-t-4 border-yellow-200 text-center">
         {/* Brand Name */}
-        <h2 className="text-2xl font-semibold mb-2">BloomKnit 🌼</h2>
+        <h2 className="text-2xl font-semibold mb-2">MAYA & Co 🌼</h2>
   
         {/* Description */}
         <p className="text-sm max-w-md mx-auto mb-4 leading-relaxed">
@@ -17,7 +17,7 @@ const Footer = () => {
   
         {/* Copyright */}
         <p className="text-xs text-yellow-800">
-          &copy; {new Date().getFullYear()} BloomKnit. All rights reserved.
+          &copy; {new Date().getFullYear()} MAYA & Co. All rights reserved.
         </p>
       </footer>
     );

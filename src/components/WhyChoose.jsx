@@ -52,7 +52,7 @@ const WhyChoose = () => {
           className="text-4xl sm:text-5xl font-bold mb-4"
         >
           Why People Fall in Love with 
-          <span className="text-yellow-700"> BloomKnit ?</span>
+          <span className="text-yellow-700"> MAYA & Co ?</span>
         </motion.h2>
 
         <motion.p

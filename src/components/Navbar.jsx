@@ -64,8 +64,7 @@ const Navbar = () => {
           className="flex items-center gap-2 text-yellow-700 font-bold text-2xl"
         >
           <img src="/sunflower.png" alt="Logo" className="w-6 h-6" />
-          BloomKnit
-        </motion.a>
+          MAYA & Co        </motion.a>
 
         {/* Desktop Links */}
         <div className="hidden md:flex space-x-6 text-yellow-700 font-medium">
