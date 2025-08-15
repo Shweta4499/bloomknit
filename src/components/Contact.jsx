@@ -80,7 +80,7 @@ const Contact = () => {
             💬 Chat on WhatsApp
           </a>
           <a
-            href="https://www.instagram.com/maya_florals?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+            href=""
             target="_blank"
             className="bg-pink-400 hover:bg-pink-500 text-white font-semibold py-2 px-6 rounded-full transition"
           >

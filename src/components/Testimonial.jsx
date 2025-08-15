@@ -46,7 +46,7 @@ const Testimonial = () => {
           transition={{ duration: 1, delay: 0.2 }}
           className="text-lg sm:text-xl max-w-xl mx-auto text-yellow-800 mb-16"
         >
-          Hear from the wonderful people who’ve received and loved our MAYA & Co creations.
+          Hear from the wonderful people who’ve received and loved our Crochets creations.
         </motion.p>
 
         {/* Testimonial Cards */}

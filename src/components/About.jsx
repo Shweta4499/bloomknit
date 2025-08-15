@@ -44,7 +44,7 @@ const About = () => {
               Made with Love, <br /> Stitched with Yarn 🧶
             </h3>
             <p className="text-lg sm:text-xl text-yellow-700 leading-relaxed">
-              At <span className="font-semibold">MAYA & Co</span>, each petal is hand-stitched —
+              At <span className="font-semibold">Crochet</span>, each petal is hand-stitched —
               no machines, just heart and hooks. Our flowers are spun with emotion and delivered across India 🌸.
             </p>
             <ul className="mt-6 text-left sm:text-center text-yellow-800 list-disc list-inside space-y-2 text-base sm:text-lg">
